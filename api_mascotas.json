@@ -33,5 +33,12 @@
         "tipo": "Canino (ojalá sin cola de cochino)",
         "color": "Desconocido",
         "edad": "Incierta"
+    },
+    {
+        "id": 6,
+        "nombre": "Fruta Tropical del Bajío",
+        "tipo": "Canino",
+        "color": "Cocada blanca",
+        "edad": "3 años"
     }
 ]
