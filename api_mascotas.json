@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fenómeno flotante",
+        "tipo": "Felino",
+        "color": "Blanco",
+        "edad": "2 años"
+    },
+    {
+        "id": 2,
+        "nombre": "Diva K",
+        "tipo": "Canino",
+        "color": "Paja",
+        "edad": "5 años"
+    },
+    {
+        "id": 3,
+        "nombre": "T RMn",
+        "tipo": "Canino",
+        "color": "Café y blanco",
+        "edad": "2 años"
+    },
+    {
+        "id": 4,
+        "nombre": "Fruta G",
+        "tipo": "Canino",
+        "color": "Paja brillante",
+        "edad": "10 meses"
+    },
+    {
+        "id": 5,
+        "nombre": "Misterio Sin Nombre",
+        "tipo": "Canino (ojalá sin cola de cochino)",
+        "color": "Desconocido",
+        "edad": "Incierta"
+    }
+]
